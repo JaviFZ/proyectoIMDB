@@ -21,8 +21,14 @@ export class Professional {
         this.profession = profession;
     }
 
-
     public showAtribs(){
         console.log(this);
+
     }
+
+    // //  ASI MOSTRARIA SÓLO EL VALOR DE LOS ATRIBUTOS
+    // public showAtribs(){
+    //     console.log(this.name, this.age, this.weight, this.isRetired, this.nationality, this.oscarsNumber, this.profession);
+
+    // }
 }

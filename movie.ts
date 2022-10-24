@@ -1,10 +1,11 @@
+import {Professional} from "./professional";
 
 export class Movie{
 
     public title: string;
     public releaseYear: number;
     public actors: Professional[];
-    public nacionality: string;
+    public nationality: string;
     public director: Professional;
     public writer: Professional;
     public language: string;
@@ -15,20 +16,25 @@ export class Movie{
     public distributor: string;
     public genre: string;
 
-constructor(titulo:string,año: number,nacionalidad: string,genero: string){
+    constructor(title:string,releaseYear: number,nationality: string,genre: string){
 
-     this.title = titulo;
-     this.releaseYear = año;
-     this.actors;
-     this.nacionality = nacionalidad;
-     this.director;
-     this.writer;
-     this.language;
-     this.plataforma;
-     this.nisMCU;
-     this.mainCharacterName;
-     this.producer;
-     this.distributor;
-     this.genre = genero;
-}
+        this.title = title;
+        this.releaseYear = releaseYear;
+        this.actors;
+        this.nationality = nationality;
+        this.director;
+        this.writer;
+        this.language;
+        this.plataforma;
+        this.nisMCU;
+        this.mainCharacterName;
+        this.producer;
+        this.distributor;
+        this.genre = genre;
+    }
+
+    public movieData() : void{
+        console.log(this);
+        
+    }
 }
