@@ -1,8 +1,8 @@
 import { IMDB } from "./imdb";
-import { pelicula1, pelicula2, pelicula3, pelicula4 } from "./movieTest";
+import { CoffeeAndCigarettes, TheDarjeelingLimited, TheLifeAquatic, TheRoyalTenenbaums } from "./movieTest";
 
 
-let imdb = new IMDB([pelicula1, pelicula2, pelicula3, pelicula4 ]);
+let imdb = new IMDB([TheLifeAquatic, TheRoyalTenenbaums, TheDarjeelingLimited, CoffeeAndCigarettes ]);
 
 console.log(imdb);
 

@@ -1,6 +1,6 @@
 import {Movie} from "./Movie"
 
-import {Professional} from "./professional";
+
 
 
 
