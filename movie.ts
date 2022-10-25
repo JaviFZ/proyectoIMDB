@@ -20,16 +20,8 @@ constructor(titulo:string,año: number,nacionalidad: string,genero: string){
 
      this.title = titulo;
      this.releaseYear = año;
-     this.actors;
      this.nacionality = nacionalidad;
-     this.director;
-     this.writer;
-     this.language;
-     this.plataforma;
-     this.nisMCU;
      this.mainCharacterName;
-     this.producer;
-     this.distributor;
      this.genre = genero;
 }
 }
