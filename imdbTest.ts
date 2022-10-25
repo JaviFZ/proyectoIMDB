@@ -7,4 +7,4 @@ let imdb = new IMDB([TheLifeAquatic, TheRoyalTenenbaums, TheDarjeelingLimited, C
 console.log(imdb);
 
 
-JSON.stringify(imdb);
+// console.log(JSON.stringify(imdb));
