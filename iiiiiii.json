@@ -1,0 +1,230 @@
+{
+    "peliculas": [
+        {
+            "title": "The Life Aquatic with Steve Zissou",
+            "releaseYear": 2004,
+            "nationality": "Estados Unidos",
+            "genre": "comedia, aventuras",
+            "director": {
+                "name": "Wes Anderson",
+                "age": 53,
+                "weight": 75,
+                "height": 180,
+                "isRetired": false,
+                "nationality": "estadounidense",
+                "oscarsNumber": 0,
+                "profession": "director"
+            },
+            "writer": {
+                "name": "Wes Anderson",
+                "age": 53,
+                "weight": 75,
+                "height": 180,
+                "isRetired": false,
+                "nationality": "estadounidense",
+                "oscarsNumber": 0,
+                "profession": "director"
+            },
+            "actors": [
+                {
+                    "name": "Cate Blanchett",
+                    "age": 53,
+                    "weight": 70,
+                    "height": 174,
+                    "isRetired": false,
+                    "nationality": "australiana",
+                    "oscarsNumber": 2,
+                    "profession": "actor"
+                },
+                {
+                    "name": "Owen Wilson",
+                    "age": 53,
+                    "weight": 80,
+                    "height": 180,
+                    "isRetired": false,
+                    "nationality": "estadounidense",
+                    "oscarsNumber": 1,
+                    "profession": "actor"
+                },
+                {
+                    "name": "Bill Murray",
+                    "age": 72,
+                    "weight": 87,
+                    "height": 188,
+                    "isRetired": false,
+                    "nationality": "estadounidense",
+                    "oscarsNumber": 0,
+                    "profession": "actor"
+                }
+            ],
+            "language": "Inglés",
+            "plataforma": "Disney+",
+            "nisMCU": false,
+            "mainCharacterName": "Steve Zissou",
+            "producer": "Wes Anderson, Barry Mendel, Scott Rudin",
+            "distributor": "Buena Vista Pictures"
+        },
+        {
+            "title": "The Royal Tenenbaums",
+            "releaseYear": 2001,
+            "nationality": "Estados Unidos",
+            "genre": "comedia",
+            "director": {
+                "name": "Wes Anderson",
+                "age": 53,
+                "weight": 75,
+                "height": 180,
+                "isRetired": false,
+                "nationality": "estadounidense",
+                "oscarsNumber": 0,
+                "profession": "director"
+            },
+            "writer": {
+                "name": "Wes Anderson",
+                "age": 53,
+                "weight": 75,
+                "height": 180,
+                "isRetired": false,
+                "nationality": "estadounidense",
+                "oscarsNumber": 0,
+                "profession": "director"
+            },
+            "actors": [
+                {
+                    "name": "Owen Wilson",
+                    "age": 53,
+                    "weight": 80,
+                    "height": 180,
+                    "isRetired": false,
+                    "nationality": "estadounidense",
+                    "oscarsNumber": 1,
+                    "profession": "actor"
+                },
+                {
+                    "name": "Bill Murray",
+                    "age": 72,
+                    "weight": 87,
+                    "height": 188,
+                    "isRetired": false,
+                    "nationality": "estadounidense",
+                    "oscarsNumber": 0,
+                    "profession": "actor"
+                }
+            ],
+            "language": "Inglés",
+            "plataforma": "Prime video",
+            "nisMCU": false,
+            "mainCharacterName": "Royal Tenenbaum",
+            "producer": "Wes Anderson, Barry Mendel, Scott Rudin",
+            "distributor": "Buena Vista Pictures"
+        },
+        {
+            "title": "The Darjeeling Limited",
+            "releaseYear": 2007,
+            "nationality": "Estados Unidos",
+            "genre": "comedia, aventuras, drama",
+            "director": {
+                "name": "Wes Anderson",
+                "age": 53,
+                "weight": 75,
+                "height": 180,
+                "isRetired": false,
+                "nationality": "estadounidense",
+                "oscarsNumber": 0,
+                "profession": "director"
+            },
+            "writer": {
+                "name": "Wes Anderson",
+                "age": 53,
+                "weight": 75,
+                "height": 180,
+                "isRetired": false,
+                "nationality": "estadounidense",
+                "oscarsNumber": 0,
+                "profession": "director"
+            },
+            "actors": [
+                {
+                    "name": "Owen Wilson",
+                    "age": 53,
+                    "weight": 80,
+                    "height": 180,
+                    "isRetired": false,
+                    "nationality": "estadounidense",
+                    "oscarsNumber": 1,
+                    "profession": "actor"
+                },
+                {
+                    "name": "Bill Murray",
+                    "age": 72,
+                    "weight": 87,
+                    "height": 188,
+                    "isRetired": false,
+                    "nationality": "estadounidense",
+                    "oscarsNumber": 0,
+                    "profession": "actor"
+                }
+            ],
+            "language": "Inglés",
+            "plataforma": "Prime video",
+            "nisMCU": false,
+            "mainCharacterName": "Hermanos Whitman",
+            "producer": "Wes Anderson, Alice Bamford, Roman Coppola, Jason Schwartzman",
+            "distributor": "Walt Disney, Studios Motion Pictures"
+        },
+        {
+            "title": "Coffee and Cigarettes",
+            "releaseYear": 2003,
+            "nationality": "United States, Japan, Italy",
+            "genre": "comedia, drama, independiente",
+            "director": {
+                "name": "Jim Jarmusch",
+                "age": 69,
+                "weight": 80,
+                "height": 188,
+                "isRetired": false,
+                "nationality": "estadounidense",
+                "oscarsNumber": 1,
+                "profession": "director"
+            },
+            "writer": {
+                "name": "Jim Jarmusch",
+                "age": 69,
+                "weight": 80,
+                "height": 188,
+                "isRetired": false,
+                "nationality": "estadounidense",
+                "oscarsNumber": 1,
+                "profession": "director"
+            },
+            "actors": [
+                {
+                    "name": "Bill Murray",
+                    "age": 72,
+                    "weight": 87,
+                    "height": 188,
+                    "isRetired": false,
+                    "nationality": "estadounidense",
+                    "oscarsNumber": 0,
+                    "profession": "actor"
+                },
+                {
+                    "name": "Cate Blanchett",
+                    "age": 53,
+                    "weight": 70,
+                    "height": 174,
+                    "isRetired": false,
+                    "nationality": "australiana",
+                    "oscarsNumber": 2,
+                    "profession": "actor"
+                }
+            ],
+            "language": "Inglés",
+            "plataforma": "Disney+",
+            "nisMCU": false,
+            "mainCharacterName": "Cate, Shelly",
+            "producer": "Wes Anderson, Barry Mendel, Scott Rudin",
+            "distributor": "Buena Vista Pictures"
+        }
+    ]
+}

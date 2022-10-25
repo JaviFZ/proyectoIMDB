@@ -2,7 +2,7 @@
   "name": "proyectoimdb",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "imdb.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JaviFZ/proyectoIMDB/issues"
   },
-  "homepage": "https://github.com/JaviFZ/proyectoIMDB#readme"
+  "homepage": "https://github.com/JaviFZ/proyectoIMDB#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.5"
+  }
 }
